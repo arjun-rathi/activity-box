@@ -8,7 +8,7 @@
 
 ---
 
-## Setup - Edited
+## Setup - Edit
 
 **activity-box** is a GitHub Action that is designed to work using the [`schedule`](https://developer.github.com/actions/managing-workflows/creating-and-cancelling-a-workflow/#scheduling-a-workflow) event.
 
